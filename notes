@@ -1,0 +1,10 @@
+
+$ python -m venv chatbot
+$ cd chatbot/
+$ ls
+bin  include  lib  lib64  pyvenv.cfg
+$ source bin/activate
+
+export PIP_CACHE_DIR=/media/nvn/DriveS/py-cache-dir/
+export HF_HOME=/media/nvn/DriveS/Hugging-face/
+export TMPDIR=/media/nvn/DriveS/py-cache-dir/
